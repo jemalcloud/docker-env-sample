@@ -1,5 +1,5 @@
 FROM alpine:3.15
-LABEL maintainer="Jemal <jemalmoh@gmail.com>"
+LABEL maintainer="Jemal mohammed <jemalmoh@gmail.com>"
 
 ENV PACKER_VERSION=1.7.8
 
